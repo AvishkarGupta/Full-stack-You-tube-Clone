@@ -1,0 +1,15 @@
+{
+  "name": "youtube-fullstack",
+  "version": "1.0.0",
+  "description": "This is going to be my first fullstack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Youtube",
+    "Backend"
+  ],
+  "author": "Avishkar Gupta",
+  "license": "ISC"
+}
